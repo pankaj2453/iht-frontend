@@ -2,7 +2,7 @@
 // Placed here until assets frontend is updated
 
 ;(function (global) {
-  'use strict'
+  'use strict';
 
   var $ = global.jQuery
   var GOVUK = global.GOVUK || {}
